@@ -1,4 +1,4 @@
-# LibraryManagementSystemCLI
+# Simple LibraryManagementSystemCLI
  Developed a mini  CLI system to manage books and users
 
 
@@ -28,10 +28,10 @@ It allows users to **add books, issue books, return books, and view all books** 
 
 LibrarySystem/
 │
-├── Book.java # Book class with details and issue/return methods
-├── User.java # User class with userId and userName
-├── Library.java # Library class with core features (add, issue, return, show)
-└── Main.java # Main class to start the program
+ Book.java # Book class with details and issue/return methods
+ User.java # User class with userId and userName
+ Library.java # Library class with core features (add, issue, return, show)
+ Main.java # Main class to start the program
 
 output : 
 <img width="1410" height="531" alt="image" src="https://github.com/user-attachments/assets/0c8547fa-eb3e-46fe-a406-891dcac1a246" />
