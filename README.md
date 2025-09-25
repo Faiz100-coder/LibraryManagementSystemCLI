@@ -26,12 +26,15 @@ It allows users to **add books, issue books, return books, and view all books** 
 
 ## 📂 Project Structure
 
-LibrarySystem/
-│
- Book.java # Book class with details and issue/return methods
- User.java # User class with userId and userName
- Library.java # Library class with core features (add, issue, return, show)
- Main.java # Main class to start the program
+* **librarySystem** (Root Folder)
+    * **JRE System Library [JavaSE-17]** (External Library)
+    * **src** (Source Folder)
+        * **librarySystem** (Package)
+            * `Book.java` (Class)
+            * `Library.java` (Class)
+            * `Main.java` (Class)
+            * `User.java` (Class)
+    
 
 output : 
 <img width="1410" height="531" alt="image" src="https://github.com/user-attachments/assets/0c8547fa-eb3e-46fe-a406-891dcac1a246" />
